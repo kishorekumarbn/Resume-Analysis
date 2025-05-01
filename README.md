@@ -1,4 +1,4 @@
-NLP-Based Resume Analysis & Adaptive Skill Assessment System
+NLP-Based Resume Analysis & Adaptive Skill Suggestion System
 
 📌 Project Overview
 
